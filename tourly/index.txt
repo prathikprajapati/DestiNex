@@ -184,7 +184,7 @@ Contact Us
 Feel free to contact and reach us !!
 
 <ion-icon name="call-outline"></ion-icon>
-+01 (123) 4567 90
++01 (123) 678245
 
 <ion-icon name="mail-outline"></ion-icon>
 info.tourly.com
