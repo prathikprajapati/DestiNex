@@ -198,7 +198,7 @@ placeholder = Enter Your Email
 
 Subscribe
 
-&copy; 2022 codewithsadee. All rights reserved
+&copy; 2025 codewithsadee. All rights reserved
 
 Privacy Policy 
 Term & Condition 
