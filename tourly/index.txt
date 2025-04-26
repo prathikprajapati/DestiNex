@@ -190,7 +190,7 @@ Feel free to contact and reach us !!
 info.tourly.com
 
 <ion-icon name="location-outline"></ion-icon>
-3148 Koontz, California
+2167 Koontz, California
 
 Subscribe our newsletter for more update & news !!
 
