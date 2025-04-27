@@ -101,7 +101,7 @@ More destintion
 
 # PACKAGE
 
-Popular Packeges
+Popular Packges
 
 Checkout Our Packeges
 
@@ -122,7 +122,7 @@ pax: 10
 <ion-icon name="location"></ion-icon>
 Malaysia
 
-(25 reviews)
+(100 reviews)
 
 <ion-icon name="star"></ion-icon>
 <ion-icon name="star"></ion-icon>
@@ -130,7 +130,7 @@ Malaysia
 <ion-icon name="star"></ion-icon>
 <ion-icon name="star"></ion-icon>
 
-$750
+$1000
 / per person
 
 Book Now
