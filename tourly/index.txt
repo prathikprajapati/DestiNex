@@ -1,4 +1,4 @@
-Tourly - Travel agancy
+Tourly - Travel agency
 
 # HEADER
 
@@ -23,12 +23,12 @@ alt = Tourly logo
 aria-label = Close Menu
 <ion-icon name="close-outline"></ion-icon>
 
-home
-about us
-destination
-packages
-gallery
-contact us
+Home
+About Us
+Destination
+Packages
+Gallery
+Contact us
 
 Book Now
 
@@ -101,7 +101,7 @@ More destintion
 
 # PACKAGE
 
-Popular Packges
+Popular Packages
 
 Checkout Our Packeges
 
@@ -114,7 +114,7 @@ Experience The Great Holiday On Beach
 Laoreet, voluptatum nihil dolor esse quaerat mattis explicabo maiores, est aliquet porttitor! Eaque, cras, aspernatur.
 
 <ion-icon name="time"></ion-icon>
-7D/6N
+7H/6S
 
 <ion-icon name="people"></ion-icon>
 pax: 10
