@@ -111,10 +111,10 @@ alt = Experience The Great Holiday On Beach
 
 Experience The Great Holiday On Beach
 
-Laoreet, voluptatum nihil dolor esse quaerat mattis explicabo maiores, est aliquet porttitor! Eaque, cras, aspernatur.
+Lareeet, voluptatum nihil dolor esse quaerat mattis explicabo maiores, est aliquet porttitor! Eaque, cras, aspernatur.
 
 <ion-icon name="time"></ion-icon>
-7H/6S
+7H/6hgd
 
 <ion-icon name="people"></ion-icon>
 pax: 10
@@ -122,7 +122,7 @@ pax: 10
 <ion-icon name="location"></ion-icon>
 Malaysia
 
-(100 reviews)
+(2.5k reviews)
 
 <ion-icon name="star"></ion-icon>
 <ion-icon name="star"></ion-icon>
@@ -137,8 +137,8 @@ Book Now
 
 alt = Summer Holiday To The Oxolotan River
 Summer Holiday To The Oxolotan River
-(20 reviews)
-$520
+(5000 reviews)
+$1000
 
 alt = Santorini Island's Weekend Vacation
 Santorini Island's Weekend Vacation
@@ -165,9 +165,8 @@ alt = Gallery image
 
 Call To Action
 
-Ready For Unforgatable Travel. Remember Us!
-
-Fusce hic augue velit wisi quibusdam pariatur, iusto primis, nec nemo, rutrum. Vestibulum cumque laudantium. Sit ornare mollitia tenetur, aptent.
+Ready For Unforgatable Travel. Remember Us
+oihefoihsxi augue velit wisi quibusdam pariatur, iusto primis, nec nemo, rutrum. Vestibulum cumque laudantium. Sit ornare mollitia tenetur, aptent.
 
 Contact Us !
 
@@ -209,6 +208,8 @@ FAQ
 # GO TO TOP
 
 <ion-icon name="chevron-up-outline"></ion-icon>
+
+
 
 
 
