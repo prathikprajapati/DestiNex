@@ -122,7 +122,7 @@ pax: 10
 <ion-icon name="location"></ion-icon>
 Malaysia
 
-(100 reviews)
+(2.5k reviews)
 
 <ion-icon name="star"></ion-icon>
 <ion-icon name="star"></ion-icon>
