@@ -111,7 +111,7 @@ alt = Experience The Great Holiday On Beach
 
 Experience The Great Holiday On Beach
 
-Laoreet, voluptatum nihil dolor esse quaerat mattis explicabo maiores, est aliquet porttitor! Eaque, cras, aspernatur.
+Lareeet, voluptatum nihil dolor esse quaerat mattis explicabo maiores, est aliquet porttitor! Eaque, cras, aspernatur.
 
 <ion-icon name="time"></ion-icon>
 7H/6S
