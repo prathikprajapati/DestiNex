@@ -117,7 +117,7 @@ Lareeet, voluptatum nihil dolor esse quaerat mattis explicabo maiores, est aliqu
 7H/6hgd
 
 <ion-icon name="people"></ion-icon>
-pax: 10
+pax: 56
 
 <ion-icon name="location"></ion-icon>
 Malaysia
