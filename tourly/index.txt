@@ -114,7 +114,7 @@ Experience The Great Holiday On Beach
 Lareeet, voluptatum nihil dolor esse quaerat mattis explicabo maiores, est aliquet porttitor! Eaque, cras, aspernatur.
 
 <ion-icon name="time"></ion-icon>
-7H/6S
+7H/6hgd
 
 <ion-icon name="people"></ion-icon>
 pax: 10
