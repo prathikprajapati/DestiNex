@@ -120,7 +120,7 @@ Lareeet, voluptatum nihil dolor esse quaerat mattis explicabo maiores, est aliqu
 pax: 56
 
 <ion-icon name="location"></ion-icon>
-Malaysia
+Singapore
 
 (2.5k reviews)
 
