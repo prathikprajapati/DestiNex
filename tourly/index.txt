@@ -77,7 +77,7 @@ alt = San miguel, italy
 <ion-icon name="star"></ion-icon>
 <ion-icon name="star"></ion-icon>
 
-Italy
+UK
 
 San miguel
 
