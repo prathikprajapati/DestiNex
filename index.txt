@@ -1,4 +1,4 @@
-Tourly - Travel agancy
+Tourly - Travel agency
 
 # HEADER
 
@@ -23,12 +23,12 @@ alt = Tourly logo
 aria-label = Close Menu
 <ion-icon name="close-outline"></ion-icon>
 
-home
-about us
-destination
-packages
-gallery
-contact us
+Home
+About Us
+Destination
+Packages
+Gallery
+Contact us
 
 Book Now
 
@@ -101,7 +101,7 @@ More destintion
 
 # PACKAGE
 
-Popular Packeges
+Popular Packages
 
 Checkout Our Packeges
 
@@ -114,7 +114,7 @@ Experience The Great Holiday On Beach
 Laoreet, voluptatum nihil dolor esse quaerat mattis explicabo maiores, est aliquet porttitor! Eaque, cras, aspernatur.
 
 <ion-icon name="time"></ion-icon>
-7D/6N
+7H/6S
 
 <ion-icon name="people"></ion-icon>
 pax: 10
@@ -122,7 +122,7 @@ pax: 10
 <ion-icon name="location"></ion-icon>
 Malaysia
 
-(25 reviews)
+(100 reviews)
 
 <ion-icon name="star"></ion-icon>
 <ion-icon name="star"></ion-icon>
@@ -130,7 +130,7 @@ Malaysia
 <ion-icon name="star"></ion-icon>
 <ion-icon name="star"></ion-icon>
 
-$750
+$1000
 / per person
 
 Book Now
@@ -184,13 +184,13 @@ Contact Us
 Feel free to contact and reach us !!
 
 <ion-icon name="call-outline"></ion-icon>
-+01 (123) 4567 90
++01 (123) 678245
 
 <ion-icon name="mail-outline"></ion-icon>
 info.tourly.com
 
 <ion-icon name="location-outline"></ion-icon>
-3146 Koontz, California
+2167 Koontz, California
 
 Subscribe our newsletter for more update & news !!
 
@@ -198,7 +198,7 @@ placeholder = Enter Your Email
 
 Subscribe
 
-&copy; 2022 codewithsadee. All rights reserved
+&copy; 2025 codewithsadee. All rights reserved
 
 Privacy Policy 
 Term & Condition 
