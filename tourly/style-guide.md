@@ -37,7 +37,7 @@ Ionicon
 --white: hsl(0, 0%, 100%);
 --black: hsl(0, 0%, 0%);
 --onyx: hsl(0, 0%, 25%);
---jet: hsl(0, 0%, 20%);
+--jet: hsl(170, 88.80%, 34.90%);
 ```
 
 ## Typography
