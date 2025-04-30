@@ -4,7 +4,7 @@ Tourly - Travel agency
 
 <ion-icon name="call-outline"></ion-icon>
 For Further Inquires :
-+01 (123) 4567 90
++01 (123) 637894
 
 alt = Tourly logo
 
@@ -18,13 +18,13 @@ aria-label = Open Menu
 <ion-icon name="logo-twitter"></ion-icon>
 <ion-icon name="logo-youtube"></ion-icon>
 
-alt = Tourly logo
+alt = Tourly  logo 
 
 aria-label = Close Menu
 <ion-icon name="close-outline"></ion-icon>
 
 Home
-About Us
+About us
 Destination
 Packages
 Gallery
@@ -47,7 +47,7 @@ Book now
 
 # TOUR SEARCH
 
-Search Destination* 
+s
 placeholder = Enter Destination
 
 Pax Number* 
@@ -69,7 +69,7 @@ Popular destination
 
 Fusce hic augue velit wisi quibusdam pariatur, iusto primis, nec nemo, rutrum. Vestibulum cumque laudantium. Sit ornare mollitia tenetur, aptent.
 
-alt = San miguel, italy
+alt = San miguel, EUROPE
 
 <ion-icon name="star"></ion-icon>
 <ion-icon name="star"></ion-icon>
