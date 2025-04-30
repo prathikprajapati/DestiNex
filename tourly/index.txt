@@ -47,7 +47,7 @@ Book now
 
 # TOUR SEARCH
 
-Search Destination* 
+s
 placeholder = Enter Destination
 
 Pax Number* 
