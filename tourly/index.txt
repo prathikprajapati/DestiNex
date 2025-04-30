@@ -18,7 +18,7 @@ aria-label = Open Menu
 <ion-icon name="logo-twitter"></ion-icon>
 <ion-icon name="logo-youtube"></ion-icon>
 
-alt = Tourly logo
+alt = Tourly 
 
 aria-label = Close Menu
 <ion-icon name="close-outline"></ion-icon>
