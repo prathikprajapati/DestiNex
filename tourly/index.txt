@@ -69,7 +69,7 @@ Popular destination
 
 Fusce hic augue velit wisi quibusdam pariatur, iusto primis, nec nemo, rutrum. Vestibulum cumque laudantium. Sit ornare mollitia tenetur, aptent.
 
-alt = San miguel, italy
+alt = San miguel, EUROPE
 
 <ion-icon name="star"></ion-icon>
 <ion-icon name="star"></ion-icon>
